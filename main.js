@@ -1,4 +1,4 @@
-//alert("hola");
+console.log("hola");
 //funcion q muestra el resultado en el imput id="resultado" como un value.
 
 function sumar (){
